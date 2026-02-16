@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "fortnox-doc-mcp": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "d:/dev/anikghosh256/fortnox-doc-mcp/dist/index.js"
+      ]
+    }
+  },
+  "inputs": []
+}
