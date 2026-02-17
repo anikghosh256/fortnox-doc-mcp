@@ -1,6 +1,6 @@
 {
   "name": "fortnox-doc-mcp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "MCP server for exploring Fortnox API documentation via OpenAPI specification",
   "type": "module",
   "main": "dist/index.js",
