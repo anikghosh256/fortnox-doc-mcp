@@ -9,7 +9,7 @@
   },
   "files": [
     "dist/**/*",
-    "openapi (1).json",
+    "openapi.json",
     "README.md",
     "LICENSE"
   ],
